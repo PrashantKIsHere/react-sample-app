@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
           Level 1 Branch
+          Level 2 Branch
         </a>
       </header>
     </div>
